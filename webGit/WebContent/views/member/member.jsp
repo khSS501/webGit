@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-멤버 페이지 입니다.asdasds
+멤버 페이지 입니다.asdasdssadasd
 </body>
 </html>
