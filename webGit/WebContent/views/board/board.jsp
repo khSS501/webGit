@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-이 페이지는 보드 페이지 입니다.
+이 페이지는 보드 페이지 입니다.sad
 </body>
 </html>
