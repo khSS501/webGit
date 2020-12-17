@@ -1,0 +1,30 @@
+From 760eddafe7026e76bda18ad6f5951f2bc52ac3de Mon Sep 17 00:00:00 2001
+From: "DESKTOP-1STAD4O\\NMS" <tksemfhr@iei.or.kr>
+Date: Thu, 17 Dec 2020 21:22:31 +0900
+Subject: [PATCH] =?UTF-8?q?2020-12-17=2021:22=20=EC=95=BD=EA=B0=84=20?=
+ =?UTF-8?q?=EC=88=98=EC=A0=95=20=EB=B3=B4=EB=93=9C=20=ED=8E=98=EC=9D=B4?=
+ =?UTF-8?q?=EC=A7=80?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ webGit/WebContent/views/board/board.jsp | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/webGit/WebContent/views/board/board.jsp b/webGit/WebContent/views/board/board.jsp
+index 8f307da..ef34f45 100644
+--- a/webGit/WebContent/views/board/board.jsp
++++ b/webGit/WebContent/views/board/board.jsp
+@@ -7,6 +7,6 @@
+ <title>Insert title here</title>
+ </head>
+ <body>
+-이 페이지는 보드 페이지 입니다.
++이 페이지는 보드 페이지 입니다.sad
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.26.2.windows.1
+
